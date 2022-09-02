@@ -1,0 +1,8 @@
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\bin\Debug\Desafio01_Alura.exe.config
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\bin\Debug\Desafio01_Alura.exe
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\bin\Debug\Desafio01_Alura.pdb
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\obj\Debug\Desafio01_Alura.csproj.AssemblyReference.cache
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\obj\Debug\Desafio01_Alura.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\obj\Debug\Desafio01_Alura.csproj.CoreCompileInputs.cache
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\obj\Debug\Desafio01_Alura.exe
+C:\GitHub\DesafiosAluraC-\Desafio01_Alura\Desafio01_Alura\obj\Debug\Desafio01_Alura.pdb
